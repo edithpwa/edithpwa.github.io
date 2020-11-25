@@ -1,4 +1,4 @@
 # edithpwa.github.io
 Pagina web PWA
 
-https://edithpwa.github.io/
+https://edithpwa.github.io
